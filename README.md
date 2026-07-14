@@ -15,15 +15,14 @@
 
 ## About Me
 
-I'm a Full Stack AI Engineer and Computer Vision Engineer with a track record of integrating and deploying AI models in production workflows, backed by a research background in Neural Radiance Fields and 3D scene reconstruction. I enjoy exploring new architectures, solving complex system challenges, and combining rigorous engineering with quantitative analysis, whether that means building enterprise agentic AI workflows or reading market microstructure.
+I'm a Full Stack AI Engineer with my passion in Deep Learning & Computer Vision. I have a track record of integrating and deploying AI models in production workflows, backed by a research background in Neural Radiance Fields and 3D scene reconstruction. I enjoy exploring new architectures, solving complex system challenges and combining rigorous engineering with quantitative analysis, whether that means building enterprise agentic AI workflows or reading market microstructure.
 
 - 🛠️ Currently building agentic AI workflows at **Oracle**, and preparing for my **MS in AI Systems** at **Carnegie Mellon University**, starting August 2026
-- 🔭 Currently learning advanced NeRF models, AI systems management, and scalable cloud architectures
-- 🌱 Studied Computer Science at **Rashtreeya Vidyalaya College of Engineering**, Bengaluru, India
-- 🤝 Looking to collaborate on projects involving computer vision, autonomous vehicles, and open source AI
+- 🔭 Also learning advanced NeRF models, vision robotics and scalable LLM architectures
+- 🤝 Looking to collaborate on projects involving computer vision, autonomous vehicles and open source AI
 - 💬 Ask me about neural radiance fields, proprietary trading setups like my Devil's Mark strategy, or football
 - 🚀 Looking for collaborators to explore complex orbital sustainability AI models
-- ⚡ Fun fact, I'm a state level football player, a guitarist, and a FIDE rated competitive chess player with an international ELO of 1430. I love applying the same strategic thinking across chess, code, and the markets
+- ⚡ Fun fact, I'm a state level football player, a guitarist and a FIDE rated competitive chess player( International ELO of 1430). if your a book lover or can beat me in chess - DM me ... we got lots to chat!
 - 🏳️ Pronouns, He, Him, His
 
 ---
@@ -70,51 +69,6 @@ I'm a Full Stack AI Engineer and Computer Vision Engineer with a track record of
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
----
-
-## Experience
-
-<details open>
-<summary><strong>AI Engineer, Oracle</strong> · Oracle Primavera Cloud (OPC) · Jan 2024 to Aug 2026</summary>
-<br>
-
-- Spearheaded org wide adoption of agentic AI tools such as Cline, Kilo Code, and Codex, one of only two engineers selected to transform the enterprise SDLC into a model agnostic, OS independent AI infrastructure, generating an estimated $1.1M in projected savings
-- Architected a decoupled multi agent ecosystem using MCP, giving LLMs bidirectional connectivity with Oracle's PL/SQL DB, Jira, and BugDB for autonomous end to end GenAI workflows, including fetching epics and resolving bugs with zero manual oversight
-- Built high throughput RAG pipelines for automated RFP summarization and construction scheduling using prompt chaining and Oracle's 23ai Vector DB, lifting operational throughput by 35%
-- Directed a proof of concept turning OPC into an agentic low code framework via Oracle Integration Cloud, and led org wide upskilling into AI native workflows
-- Owned 19 JavaScript and React frontend features on a Java Spring backend, improving responsiveness by 28%, and resolved 25+ high priority bugs across 2,500+ lines of production code with a zero defect post fix record
-
-</details>
-
-<details>
-<summary><strong>Founder, BehaviorAI</strong> · Softway LoveXAI Hackathon Winner · Jun 2026</summary>
-<br>
-
-- Solo architected and built a working AI product in a two hour sprint using the Claude API to drive behavioral change for 10,000 employees
-- Delivered a live commercial defense to Softway's Managing Director and VP, and secured corporate interest for an enterprise rollout
-- Selected as 1 of 5 winners out of over 1,000 applicants
-
-</details>
-
-<details>
-<summary><strong>Research Assistant, IISc Bangalore</strong> · Visual AI & Learning Lab (VAL) · Jul 2023 to Dec 2023</summary>
-<br>
-
-- Researched Neural Radiance Fields using Plenoptic Functions to model 7D scene representations for novel view synthesis, boosting reconstruction fidelity by 25% on benchmarks and reducing mean joint position error by 18% on out of distribution (OOD) datasets, validated on Blender, LLFF, and DTU
-- Integrated SfM and SLAM camera calibration for 3D scene reconstruction with differentiable ray tracing and BVH based supersampling, maintaining real time inference at 12 fps
-- Mitigated visual aliasing using Gaussian splatting and custom acceleration structures for human pose estimation, and synthesized volumetric rendering and lightfield pipelines across 1,000+ lines of code
-- Designed end to end rendering and spatial data pipelines in PyTorch on Ubuntu, improving model output quality by 15% across varied lighting conditions
-
-</details>
-
-<details>
-<summary><strong>Research Assistant, Wipro PARI</strong> · Automated Self Driving Car · Nov 2022 to Mar 2023</summary>
-<br>
-
-- Designed and trained a customized Single Shot Detector with Feature Pyramid Networks for multi scale perception across dense autonomous driving scenarios, achieving 55 to 75% mAP on real world traffic datasets (WIRIN)
-
-</details>
 
 ---
 

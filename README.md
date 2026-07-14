@@ -1,60 +1,43 @@
-<!--
-**somilsingh/somilsingh** is a _special_ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+# Hi, I'm Somil Singh! 👋
 
-# Hi, I'm Somil! 👋
-
-I am a **Full-Stack AI Engineer** and **Associate Software Developer at Oracle** passionate about combining Artificial Intelligence, Computer Vision, and autonomous systems with space exploration and orbital sustainability.<br/>
-I enjoy training highly optimized deep neural networks, engineering scalable production systems, and exploring the mathematical world of quantitative finance.<br/>
-Whether I am tuning a model's hyperparameters or analyzing market microstructure, I love building elegant, robust solutions that bridge complex engineering with real-world impact.
+I am a Full-Stack AI Engineer and Computer Vision Engineer with a proven track record of integrating and deploying AI models, designing real-time 3D scene reconstruction pipelines, and leading AI innovation initiatives[cite: 1, 2]. Currently pursuing an MS in AI Systems Management at Carnegie Mellon University, I am seeking Machine Learning/AI or Computer Vision roles to leverage my expertise in RAG pipelines, Agentic AI, LLM orchestration, NeRF, and advanced deep learning frameworks[cite: 1, 2].
 
 ---
 
-### 🛠️ Skills & Technologies
+### 🛠️ Technical Skills
 
-**Languages & Frameworks:**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-**AI, Machine Learning & Database:**  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-Vector%20DB-%23E02424?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+*   **Languages:** Python, JavaScript, Java, C, and MATLAB[cite: 1, 2].
+*   **Frameworks & Tools:** PyTorch, TensorFlow, HuggingFace, Pandas, NumPy, CUDA, Git, LangChain, Qdrant, and OCI[cite: 1, 2].
+*   **AI & Computer Vision Concepts:** Deep Learning, Convolutional Neural Networks (CNNs), Vision Transformers (ViT), Neural Radiance Fields (NeRF), Large Vision Models (LVM), Vision-Language Models (VLM), RAG Chatbots, Generative AI, and Low-Code Agentic AI DevOps[cite: 1, 2].
 
 ---
 
-### 🚀 What I Do:
-*   **Enterprise AI:** Architect and deploy scalable full-stack applications and AI pipelines.
-*   **Computer Vision Research:** Build real-time object tracking systems, specialized neural radiance fields (NeRF), and autonomous vehicle perception frameworks.
-*   **Quantitative Exploration:** Backtest technical setups, model index volatility, and dissect order blocks and market liquidity.
-*   **Continuous Innovation:** Turn cutting-edge deep learning research into modular, production-ready code.
+### 💼 Experience & Research
 
-### 📚 Currently Working On & Learning:
-*   Building next-generation full-stack AI features at Oracle.
-*   Diving deeper into advanced deep learning, large language model orchestrations, and cloud system scaling.
-*   Preparing for my next academic chapter in advanced computer science and AI systems management.
-
-### 🎯 Areas of Interest:
-*   Computer Vision & Autonomous Systems | Space Exploration & Orbital Sustainability | Quantitative Finance & Algorithmic Trading | Full-Stack Architecture
+*   **Oracle | AI Engineer (Jan 2024 - Aug 2026):** Spearheaded the org-wide adoption of Agentic AI tools (Cline, Kilo Code, Codex) to transform the enterprise SDLC into an OS-independent AI infrastructure, generating $1.1M in projected savings[cite: 1, 2]. Architected a decoupled multi-agent ecosystem using MCP for bi-directional LLM connectivity with Oracle PL/SQL DB, Jira, and BugDB[cite: 1, 2]. Owned 19 JavaScript-React frontend features with a Java-Spring backend, improving ERP responsiveness by 28% and resolving 25+ high-priority bugs with zero post-fix defects[cite: 1, 2].
+*   **BehaviorAI | Founder (Jun 2026):** Solo-architected and built a functional AI product in a 2-hour sprint using Claude as the winner of the Softway LovexAI Hackathon, securing corporate interest for an enterprise rollout[cite: 1].
+*   **IISc Bangalore | Computer Vision Research Intern (Jul 2023 - Dec 2023):** Researched Neural Radiance Fields (NeRF) using Plenoptic Functions for novel view synthesis, and mitigated visual aliasing using Gaussian splatting and supersampling via BVH[cite: 1, 2]. Integrated SfM/SLAM camera calibration for 3D scene reconstruction while maintaining real-time inference at 12 fps[cite: 1, 2].
+*   **Wipro PARI | Computer Vision Research Assistant (Nov 2022 - Mar 2023):** Designed and trained a customized Single Shot Detector (SSD) with Feature Pyramid Networks (FPN) for multi-scale perception in dense autonomous driving scenarios, achieving 55-75% mAP on real-world WIRIN traffic datasets[cite: 1, 2].
 
 ---
 
-### 🧑‍💻 About Me:
-*   🎓 Studied Computer Science at **Rashtreeya Vidyalaya College of Engineering (RVCE)**, Bengaluru, India.
-*   🔬 Former AI Research Intern at the **Indian Institute of Science (IISc), Bangalore**, focused on Neural Radiance Fields (NeRF) and novel view synthesis.
-*   🤝 I'm looking to collaborate on open-source machine learning projects, autonomous vehicle systems, or space-tech AI applications.
-*   💬 Ask me about technical indicators, my proprietary "Devil's Mark" candle strategy, neural networks, or football!
-*   🙋‍♂️ **Pronouns:** He/Him/His
-*   ⚡ **Fun facts:** 
-    *   I am a state-level football player and active badminton player. 
-    *   I play the guitar.
-    *   I'm a competitive chess player with an international ELO of 1430—which comes in handy when calculating complex market moves or strategic model weights!
+### 📚 Publications
+
+*   Co-authored "Object Detection, Classification and Tracking of Everyday Common Objects" in the International Journal of Innovative Science and Research Technology (IJISRT), August 2023[cite: 1, 2]. 
+*   Developed a GPU-accelerated real-time object segmentation and tracking pipeline using YOLOv4, TensorFlow, and OpenCV that achieved sub-30ms inference latency and 75-95% classification accuracy[cite: 1, 2].
 
 ---
 
-### 📬 Get in Touch:
-*   💼 **LinkedIn:** [linkedin.com/in/somil-singh](https://www.linkedin.com/in/somil-singh)
-*   📧 **Email:** [thesomilsinghofficial@gmail.com](mailto:thesomilsinghofficial@gmail.com)
+### 🎓 Education
+
+*   **Carnegie Mellon University (CMU):** MS in AI Systems Management (Sep 2026 – Dec 2027)[cite: 1, 2].
+*   **Rashtreeya Vidyalaya College of Engineering (RVCE):** B.E in CSE (Dec 2020 – Jun 2024)[cite: 1, 2].
+*   **National Public School, Indiranagar (NPS INR):** High School Diploma (Aug 2016 – Jun 2020), graduating with a 96.8% aggregate and recognized as a National Talent Search Examination (NTSE) Scholar[cite: 2].
+
+---
+
+### 📫 Let's Connect
+
+*   **Email:** thesomilsinghofficial@gmail.com[cite: 1] or somils@andrew.cmu.edu[cite: 2]
+*   **LinkedIn:** linkedin.com/in/somil-singh[cite: 1, 2]
+*   **GitHub:** github.com/somilsin[cite: 1] or github.com/skywalkerrre[cite: 2]

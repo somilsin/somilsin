@@ -73,50 +73,7 @@ I'm a Full Stack AI Engineer and Computer Vision Engineer with a track record of
 
 ---
 
-## Experience
 
-<details open>
-<summary><strong>AI Engineer, Oracle</strong> · Oracle Primavera Cloud (OPC) · Jan 2024 to Aug 2026</summary>
-<br>
-
-- Spearheaded org wide adoption of agentic AI tools such as Cline, Kilo Code, and Codex, one of only two engineers selected to transform the enterprise SDLC into a model agnostic, OS independent AI infrastructure, generating an estimated $1.1M in projected savings
-- Architected a decoupled multi agent ecosystem using MCP, giving LLMs bidirectional connectivity with Oracle's PL/SQL DB, Jira, and BugDB for autonomous end to end GenAI workflows, including fetching epics and resolving bugs with zero manual oversight
-- Built high throughput RAG pipelines for automated RFP summarization and construction scheduling using prompt chaining and Oracle's 23ai Vector DB, lifting operational throughput by 35%
-- Directed a proof of concept turning OPC into an agentic low code framework via Oracle Integration Cloud, and led org wide upskilling into AI native workflows
-- Owned 19 JavaScript and React frontend features on a Java Spring backend, improving responsiveness by 28%, and resolved 25+ high priority bugs across 2,500+ lines of production code with a zero defect post fix record
-
-</details>
-
-<details>
-<summary><strong>Founder, BehaviorAI</strong> · Softway LoveXAI Hackathon Winner · Jun 2026</summary>
-<br>
-
-- Solo architected and built a working AI product in a two hour sprint using the Claude API to drive behavioral change for 10,000 employees
-- Delivered a live commercial defense to Softway's Managing Director and VP, and secured corporate interest for an enterprise rollout
-- Selected as 1 of 5 winners out of over 1,000 applicants
-
-</details>
-
-<details>
-<summary><strong>Research Assistant, IISc Bangalore</strong> · Visual AI & Learning Lab (VAL) · Jul 2023 to Dec 2023</summary>
-<br>
-
-- Researched Neural Radiance Fields using Plenoptic Functions to model 7D scene representations for novel view synthesis, boosting reconstruction fidelity by 25% on benchmarks and reducing mean joint position error by 18% on out of distribution (OOD) datasets, validated on Blender, LLFF, and DTU
-- Integrated SfM and SLAM camera calibration for 3D scene reconstruction with differentiable ray tracing and BVH based supersampling, maintaining real time inference at 12 fps
-- Mitigated visual aliasing using Gaussian splatting and custom acceleration structures for human pose estimation, and synthesized volumetric rendering and lightfield pipelines across 1,000+ lines of code
-- Designed end to end rendering and spatial data pipelines in PyTorch on Ubuntu, improving model output quality by 15% across varied lighting conditions
-
-</details>
-
-<details>
-<summary><strong>Research Assistant, Wipro PARI</strong> · Automated Self Driving Car · Nov 2022 to Mar 2023</summary>
-<br>
-
-- Designed and trained a customized Single Shot Detector with Feature Pyramid Networks for multi scale perception across dense autonomous driving scenarios, achieving 55 to 75% mAP on real world traffic datasets (WIRIN)
-
-</details>
-
----
 
 ## Publications
 
@@ -132,17 +89,14 @@ Shiwansh Bhargav, Singh S., et al. International Journal of Innovative Science a
 ## Education
 
 **Carnegie Mellon University**, Pittsburgh · MS in AI Systems · Starting August 2026
-**Rashtreeya Vidyalaya College of Engineering**, Bengaluru · B.E. in Computer Science and Engineering · Dec 2020 to Jun 2024
-**National Public School**, Indiranagar · High School Diploma, 96.8% aggregate · Aug 2016 to Jun 2020
-
-- 🎓 National Talent Search Examination (NTSE) Scholar, Final All India Rank within the top 800
-- 📚 Relevant coursework: Advanced Computer Vision, Advanced Natural Language Processing, Deep Reinforcement Learning and Control, AI Model Development, AI Cloud and DevOps, Advanced AI and Business Strategy, Data Engineering, Fundamentals of Operationalizing AI
+**Rashtreeya Vidyalaya College of Engineering**, Bengaluru · B.E. in Computer Science and Engineering · 
+**National Public School**, Indiranagar · High School Diploma, 96.8% aggregate · 
 
 ---
 
 ## Currently Learning
 
-Advanced Multimodal Machine Learning, AI Cloud Systems, and Generative AI Orchestration
+Advanced Multimodal Machine Learning, Computer Vision & Robotics
 
 ## Interests
 

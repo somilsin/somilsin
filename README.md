@@ -20,7 +20,7 @@
 
 I'm a Full Stack AI Engineer with my passion in Deep Learning & Computer Vision. I have a track record of integrating and deploying AI models in production workflows, backed by a research background in Neural Radiance Fields and 3D scene reconstruction. I enjoy exploring new architectures, solving complex system challenges and combining rigorous engineering with quantitative analysis, whether that means building enterprise agentic AI workflows or reading market microstructure.
 
-- 🛠️ Currently building agentic AI workflows at **Oracle** and preparing for my **MS in AI Systems** at **Carnegie Mellon University** (deferred -> FA27)
+- 🛠️ Currently building agentic AI workflows at **Oracle**.
 - 🔭 Also learning advanced NeRF models, vision robotics and scalable LLM architectures
 - 🤝 Looking to collaborate on projects involving computer vision, autonomous vehicles and open source AI
 - 💬 Ask me about neural radiance fields, proprietary trading setups like my Devil's Mark strategy, or football

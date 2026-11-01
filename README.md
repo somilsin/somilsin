@@ -11,7 +11,7 @@
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://thesomilsingh.substack.com/)
 
 [![GitHub followers](https://img.shields.io/github/followers/somilsin?style=for-the-badge&color=181717&logo=github&logoColor=white&label=Follow)](https://github.com/somilsin)
-[![Profile views](https://komarev.com/ghpvc/?username=somilsin&style=for-the-badge&color=58A6FF&label=Profile+Views)]
+[![Profile views](https://komarev.com/ghpvc/?username=somilsin&style=for-the-badge&color=58A6FF&label=Profile+Views)
 
 </div>
 

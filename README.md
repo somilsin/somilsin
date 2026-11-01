@@ -19,25 +19,25 @@
 
 ## About Me
 
-I'm a Full Stack AI Engineer with my passion in Deep Learning & Computer Vision. I have a track record of integrating and deploying AI models in production workflows, backed by a research background in Neural Radiance Fields and 3D scene reconstruction. I enjoy exploring new architectures, solving complex system challenges and combining rigorous engineering with quantitative analysis, whether that means building enterprise agentic AI workflows or reading market microstructure.
+I'm a Full Stack AI Engineer at Oracle, with most of my work around agentic AI, deep learning and computer vision. I've also worked on NeRF and 3D scene reconstruction. I enjoy working through how these systems work and building things with what I learn, whether that's an AI workflow, a research experiment or a trading idea.
 
-- 🛠️ Currently building agentic AI workflows at **Oracle**.
-- 🔭 Also learning advanced NeRF models, vision robotics and scalable LLM architectures
-- 🤝 Looking to collaborate on projects involving computer vision, autonomous vehicles and open source AI
-- 💬 Ask me about neural radiance fields, proprietary trading setups like my Devil's Mark strategy, or football
-- 🚀 Looking for collaborators to explore complex orbital sustainability AI models
-- ⚡ Fun fact, I'm a state level football player, a guitarist and a FIDE rated competitive chess player (International ELO of 1430). If you're a book lover or can beat me in chess — DM me, we got lots to chat!
+- 🛠️ Building agentic AI workflows at **Oracle**.
+- 🔭 Learning more about NeRF, vision robotics and LLM architectures.
+- 🤝 Looking for people to build with in computer vision, autonomous vehicles and open source AI.
+- 💬 Ask me about NeRF, my Devil's Mark trading strategy or football.
+- 🚀 Also looking for collaborators to explore AI for orbital sustainability.
+- ⚡ I also play football, guitar and chess. I'm a state level football player and a FIDE rated chess player with an international Elo of 1430. If you're into books or up for a game of chess, DM me. We've got plenty to chat about!
 - 🏳️ Pronouns: He, Him, His
 
 ---
 
 ## What I Do
 
-- ⚙️ Architect scalable multi agent ecosystems and full stack AI applications
-- 🔬 Design real time 3D scene reconstruction and computer vision pipelines
-- 📈 Experiment with quantitative finance and algorithmic trading strategies
-- 🏆 Ship AI products end to end, from two hour hackathon builds to enterprise rollouts
-- 📝 Share my learning journey and research on GitHub and in academic journals
+- ⚙️ Build multi agent workflows and full stack AI applications.
+- 🔬 Work on 3D scene reconstruction and computer vision pipelines.
+- 📈 Experiment with quantitative finance and algorithmic trading.
+- 🏆 Build AI projects from the first idea to a working product, including a two hour hackathon build.
+- 📝 Share what I'm learning through code, notes and research papers.
 
 ---
 
@@ -49,8 +49,8 @@ I'm a Full Stack AI Engineer with my passion in Deep Learning & Computer Vision.
 >
 > 🔗 [doi.org/10.5281/zenodo.8330641](https://doi.org/10.5281/zenodo.8330641)
 >
-> - Built a GPU accelerated real time object segmentation and tracking pipeline using YOLOv4, TensorFlow, and OpenCV, achieving under 30ms inference latency on high speed video streams
-> - Combined object detection with selective class tracking and dynamic frame based cropping, reaching 75 to 95% classification and tracking accuracy while handling edge frame targets and occlusion scenarios
+> - Coauthored work on object detection and tracking with YOLOv4, TensorFlow and OpenCV.
+> - Worked with class filtering, object counts and frame cropping, including examples near frame edges. The paper also discusses the limits of occlusion handling.
 >
 > ![YOLOv4](https://img.shields.io/badge/YOLOv4-111111?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
@@ -88,7 +88,7 @@ I'm a Full Stack AI Engineer with my passion in Deep Learning & Computer Vision.
 
 ### Get In Touch
 
-Feel free to connect on [LinkedIn](https://linkedin.com/in/somil-singh) or check out my projects here on GitHub!
+If you'd like to chat or build something together, reach me on [LinkedIn](https://linkedin.com/in/somil-singh). You can also explore my projects here on GitHub.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/somil-singh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somils@andrew.cmu.edu)
